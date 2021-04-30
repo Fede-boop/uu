@@ -1,0 +1,26 @@
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family:  "Open Sans", sans-serif;  /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #ee49bc;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #00ccff;
+  padding: 0 50px 50px 50px;
+  border: 10px solid black;
+}
